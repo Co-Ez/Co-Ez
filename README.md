@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Co-Ez
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning HTML, CSS, and JS
+- 💞️ I’m looking to collaborate on nothing at the moment
+- 📫 How to reach me edwards.ezzie2@gmail.com
+- ⚡ Fun fact: The first coding language I learnt is Python
